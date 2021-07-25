@@ -1,0 +1,9 @@
+:root {
+  --primery-font: 'Montserrat', sans-serif;
+  --secondery-font: 'Playfair Display', serif;
+}
+
+body {
+  font-family: var(--primery-font);
+  font-size: 14px;
+}
